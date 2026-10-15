@@ -32,6 +32,16 @@ Lumino is an interactive educational web application featuring a space-themed le
 
 Successfully completed my studies at IT STEP Academy.
 
+**Areas of Study:**
+
+* **Programming Languages:** C#, C++, Python
+* **Backend Development:** ASP.NET Core, Entity Framework Core
+* **Frontend & Mobile Development:** Web Development, React, React Native
+* **Databases:** SQL
+* **Desktop Development:** WPF (C#)
+* **Cloud & DevOps:** Microsoft Azure, Docker
+* **Additional Studies:** Artificial Intelligence with Python, Blockchain, Network Programming, Team Projects
+
 📜 **[View My Diploma (PDF)](https://github.com/hitman4ik85/Education-Certificates/blob/main/IT-Step-Academy-Diploma-2026.pdf)**
 
 📁 **[Education & Certificates Repository](https://github.com/hitman4ik85/Education-Certificates)**
