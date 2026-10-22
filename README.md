@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a software developer and graduate of IT STEP Academy (2023–2026), passionate about building modern web applications and improving my programming skills.
+I am a web developer who loves building modern websites and apps, and constantly improving my coding skills.
 
 ## 🛠️ Tech Stack
 
@@ -18,19 +18,13 @@ I'm a software developer and graduate of IT STEP Academy (2023–2026), passiona
 
 ### 🌌 Lumino — Interactive Learning Platform
 
-My diploma project developed as part of my studies at IT STEP Academy.
-
-Lumino is an interactive educational web application featuring a space-themed learning environment, lessons, exercises, achievements, and user progress tracking.
-
-**Technologies:** ASP.NET Core, React, SQL Server, Microsoft Azure.
-
 🔗 **[View Lumino on GitHub](https://github.com/hitman4ik85/Lumino)**
 
 ## 🎓 Education & Certificates
 
 ### IT STEP Academy | 2023–2026
 
-Successfully completed my studies at IT STEP Academy.
+Successfully completed my studies.
 
 **Areas of Study:**
 
@@ -42,9 +36,7 @@ Successfully completed my studies at IT STEP Academy.
 * **Cloud & DevOps:** Microsoft Azure, Docker
 * **Additional Studies:** Artificial Intelligence with Python, Blockchain, Network Programming, Team Projects
 
-📜 **[View My Diploma (PDF)](https://github.com/hitman4ik85/Education-Certificates/blob/main/IT-Step-Academy-Diploma-2026.pdf)**
-
-📁 **[Education & Certificates Repository](https://github.com/hitman4ik85/Education-Certificates)**
+📜 **[View My Diploma (PDF)](https://github.com/hitman4ik85/Education-Certificates/blob/main/Academy-Diploma-2026.pdf)**
 
 ---
 
