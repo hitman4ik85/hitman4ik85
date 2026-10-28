@@ -18,6 +18,12 @@ I am a web developer who loves building modern websites and apps, and constantly
 
 ### 🌌 Lumino — Interactive Learning Platform
 
+Lumino is an interactive language-learning web platform developed as a diploma project at IT STEP Academy. It supports learning content for different languages, with English featured in the project demonstration.
+
+The platform includes a space-themed learning environment, interactive lessons and exercises, progress tracking, achievements, and an admin panel for managing educational content.
+
+**Technologies:** ASP.NET Core (.NET 8), React, SQL Server, Microsoft Azure.
+
 🔗 **[View Lumino on GitHub](https://github.com/hitman4ik85/Lumino)**
 
 ## 🎓 Education & Certificates
