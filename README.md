@@ -26,17 +26,7 @@ I am a web developer who loves building modern websites and apps, and constantly
 
 Successfully completed my studies.
 
-**Areas of Study:**
-
-* **Programming Languages:** C#, C++, Python
-* **Backend Development:** ASP.NET Core, Entity Framework Core
-* **Frontend & Mobile Development:** Web Development, React, React Native
-* **Databases:** SQL
-* **Desktop Development:** WPF (C#)
-* **Cloud & DevOps:** Microsoft Azure, Docker
-* **Additional Studies:** Artificial Intelligence with Python, Blockchain, Network Programming, Team Projects
-
-📜 **[View My Diploma (PDF)](https://github.com/hitman4ik85/Education-Certificates/blob/main/Academy-Diploma-2026.pdf)**
+🔗 **[Education & Certificates](https://github.com/hitman4ik85/Education-Certificates)**
 
 ---
 
